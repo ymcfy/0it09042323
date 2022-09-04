@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 34badf62bda8b7c48835418df603b34d
+timeCreated: 1498546813
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYZhongKaiJ
+  fontNames:
+  - HYZhongKaiJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

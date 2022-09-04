@@ -1,0 +1,4382 @@
+<save name="saveFile1">
+  <objectSaved>
+    <objectName>AFQDYHQXF02(Clone)</objectName>
+    <objectPosition>(39.1, 1.6, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(2.3, 2.3, 2.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM124</objectName>
+    <objectPosition>(60.9, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX121</objectName>
+    <objectPosition>(24.2, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB29</objectName>
+    <objectPosition>(42.9, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Panel</objectName>
+    <objectPosition>(512.0, 1311.6, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX69</objectName>
+    <objectPosition>(54.4, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX121</objectName>
+    <objectPosition>(24.2, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM69</objectName>
+    <objectPosition>(36.7, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM25</objectName>
+    <objectPosition>(23.4, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM74</objectName>
+    <objectPosition>(54.4, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB11</objectName>
+    <objectPosition>(30.1, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX104</objectName>
+    <objectPosition>(30.1, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX37</objectName>
+    <objectPosition>(41.4, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(820.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM21</objectName>
+    <objectPosition>(24.6, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX123</objectName>
+    <objectPosition>(23.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP54</objectName>
+    <objectPosition>(55.0, 0.6, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP27</objectName>
+    <objectPosition>(54.8, 2.7, -55.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP102</objectName>
+    <objectPosition>(48.8, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP18</objectName>
+    <objectPosition>(60.8, 0.2, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM111</objectName>
+    <objectPosition>(61.5, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM94</objectName>
+    <objectPosition>(43.2, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX14</objectName>
+    <objectPosition>(61.3, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX75</objectName>
+    <objectPosition>(35.8, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP44</objectName>
+    <objectPosition>(42.6, 0.4, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX05</objectName>
+    <objectPosition>(60.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP107</objectName>
+    <objectPosition>(48.8, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX117</objectName>
+    <objectPosition>(29.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Panel_area</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX107</objectName>
+    <objectPosition>(30.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM81</objectName>
+    <objectPosition>(55.3, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX98</objectName>
+    <objectPosition>(30.7, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX133</objectName>
+    <objectPosition>(24.5, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX44</objectName>
+    <objectPosition>(43.0, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>GameObject</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM63</objectName>
+    <objectPosition>(36.7, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(512.0, 1262.9, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP17</objectName>
+    <objectPosition>(61.4, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM10</objectName>
+    <objectPosition>(49.1, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM110</objectName>
+    <objectPosition>(61.5, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX70</objectName>
+    <objectPosition>(55.6, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX59</objectName>
+    <objectPosition>(53.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Canvas</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>help</objectName>
+    <objectPosition>(512.0, 867.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(512.0, 1311.6, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP16</objectName>
+    <objectPosition>(62.1, 6.4, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.7, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP31</objectName>
+    <objectPosition>(36.5, 3.8, -69.6)</objectPosition>
+    <objectRotation>(-0.5, 0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX83</objectName>
+    <objectPosition>(36.5, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP94</objectName>
+    <objectPosition>(24.3, 0.4, -68.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(520.0, 844.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX52</objectName>
+    <objectPosition>(43.0, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX145</objectName>
+    <objectPosition>(27.1, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP03</objectName>
+    <objectPosition>(61.2, 0.6, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX18</objectName>
+    <objectPosition>(61.6, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP47</objectName>
+    <objectPosition>(42.6, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>exit</objectName>
+    <objectPosition>(1112.0, 5.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP06</objectName>
+    <objectPosition>(42.1, 0.0, -53.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX87</objectName>
+    <objectPosition>(36.6, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM139</objectName>
+    <objectPosition>(22.7, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>mianji</objectName>
+    <objectPosition>(1112.0, 183.4, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(42.0, 724.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX72</objectName>
+    <objectPosition>(55.6, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>line</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX89</objectName>
+    <objectPosition>(36.8, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX22</objectName>
+    <objectPosition>(60.9, 0.4, -69.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM89</objectName>
+    <objectPosition>(54.7, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX138</objectName>
+    <objectPosition>(24.6, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP10</objectName>
+    <objectPosition>(61.2, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX162</objectName>
+    <objectPosition>(48.2, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM17</objectName>
+    <objectPosition>(47.6, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX111</objectName>
+    <objectPosition>(30.7, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP106</objectName>
+    <objectPosition>(48.5, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM51</objectName>
+    <objectPosition>(30.5, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM76</objectName>
+    <objectPosition>(55.3, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX154</objectName>
+    <objectPosition>(48.9, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX78</objectName>
+    <objectPosition>(35.9, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM46</objectName>
+    <objectPosition>(30.5, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX74</objectName>
+    <objectPosition>(55.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM49</objectName>
+    <objectPosition>(29.6, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP46</objectName>
+    <objectPosition>(42.3, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP42</objectName>
+    <objectPosition>(42.6, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP26</objectName>
+    <objectPosition>(60.9, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX48</objectName>
+    <objectPosition>(43.2, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Button_reset</objectName>
+    <objectPosition>(42.0, 620.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB27</objectName>
+    <objectPosition>(42.7, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX35</objectName>
+    <objectPosition>(42.3, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX86</objectName>
+    <objectPosition>(36.6, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX105</objectName>
+    <objectPosition>(30.3, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM122</objectName>
+    <objectPosition>(61.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX81</objectName>
+    <objectPosition>(35.2, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX65</objectName>
+    <objectPosition>(55.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX76</objectName>
+    <objectPosition>(36.9, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP11</objectName>
+    <objectPosition>(61.5, 0.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM83</objectName>
+    <objectPosition>(55.6, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX71</objectName>
+    <objectPosition>(55.3, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EAQDYHQJZ01</objectName>
+    <objectPosition>(42.6, 3.8, -69.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.7, 0.7, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX40</objectName>
+    <objectPosition>(41.4, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP82</objectName>
+    <objectPosition>(30.5, 0.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM79</objectName>
+    <objectPosition>(55.6, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB22</objectName>
+    <objectPosition>(55.1, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM102</objectName>
+    <objectPosition>(42.0, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX14</objectName>
+    <objectPosition>(61.3, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>volume</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(940.0, 668.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP50</objectName>
+    <objectPosition>(42.9, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB35</objectName>
+    <objectPosition>(61.5, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB24</objectName>
+    <objectPosition>(55.3, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX10</objectName>
+    <objectPosition>(42.3, 6.4, -67.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX136</objectName>
+    <objectPosition>(24.6, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX12</objectName>
+    <objectPosition>(61.8, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX114</objectName>
+    <objectPosition>(30.8, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX140</objectName>
+    <objectPosition>(24.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM07</objectName>
+    <objectPosition>(48.2, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX111</objectName>
+    <objectPosition>(30.7, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP80</objectName>
+    <objectPosition>(29.9, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX133</objectName>
+    <objectPosition>(24.5, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB09</objectName>
+    <objectPosition>(24.3, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM53</objectName>
+    <objectPosition>(29.0, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM66</objectName>
+    <objectPosition>(35.8, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP108</objectName>
+    <objectPosition>(49.1, 0.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX46</objectName>
+    <objectPosition>(42.3, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP05</objectName>
+    <objectPosition>(47.6, 0.2, -58.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP07</objectName>
+    <objectPosition>(42.8, 3.4, -66.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX160</objectName>
+    <objectPosition>(49.2, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM44</objectName>
+    <objectPosition>(30.5, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Arrow</objectName>
+    <objectPosition>(310.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX45</objectName>
+    <objectPosition>(43.0, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP75</objectName>
+    <objectPosition>(30.4, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX82</objectName>
+    <objectPosition>(36.3, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP71</objectName>
+    <objectPosition>(36.5, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX112</objectName>
+    <objectPosition>(29.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX08</objectName>
+    <objectPosition>(42.3, 6.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM68</objectName>
+    <objectPosition>(36.3, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX54</objectName>
+    <objectPosition>(54.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX142</objectName>
+    <objectPosition>(45.7, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>area</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM35</objectName>
+    <objectPosition>(22.8, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Directional light</objectName>
+    <objectPosition>(39.6, 53.1, -124.5)</objectPosition>
+    <objectRotation>(0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX120</objectName>
+    <objectPosition>(24.5, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX18</objectName>
+    <objectPosition>(61.6, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX167</objectName>
+    <objectPosition>(49.2, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM103</objectName>
+    <objectPosition>(42.0, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX25</objectName>
+    <objectPosition>(61.7, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX118</objectName>
+    <objectPosition>(30.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM30</objectName>
+    <objectPosition>(23.4, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM39</objectName>
+    <objectPosition>(30.8, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM48</objectName>
+    <objectPosition>(29.6, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM114</objectName>
+    <objectPosition>(61.8, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX167</objectName>
+    <objectPosition>(49.2, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX92</objectName>
+    <objectPosition>(37.0, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP65</objectName>
+    <objectPosition>(36.0, 0.0, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX154</objectName>
+    <objectPosition>(48.9, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP30</objectName>
+    <objectPosition>(48.8, 3.8, -69.6)</objectPosition>
+    <objectRotation>(-0.5, 0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1334.8, 99.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>biaoti</objectName>
+    <objectPosition>(1334.8, 185.5, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF05</objectName>
+    <objectPosition>(36.4, 0.0, -62.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM82</objectName>
+    <objectPosition>(55.3, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP57</objectName>
+    <objectPosition>(55.0, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP58</objectName>
+    <objectPosition>(55.3, 0.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX84</objectName>
+    <objectPosition>(35.2, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP87</objectName>
+    <objectPosition>(24.0, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX109</objectName>
+    <objectPosition>(30.4, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM126</objectName>
+    <objectPosition>(60.0, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>RawImage_cx</objectName>
+    <objectPosition>(1222.0, 6.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX126</objectName>
+    <objectPosition>(23.9, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM131</objectName>
+    <objectPosition>(47.5, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX144</objectName>
+    <objectPosition>(33.3, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX147</objectName>
+    <objectPosition>(48.2, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM134</objectName>
+    <objectPosition>(41.4, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM01</objectName>
+    <objectPosition>(47.6, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM52</objectName>
+    <objectPosition>(29.9, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX01</objectName>
+    <objectPosition>(58.1, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX47</objectName>
+    <objectPosition>(42.0, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX135</objectName>
+    <objectPosition>(23.4, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>灭火箱</objectName>
+    <objectPosition>(55.0, 0.0, -63.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.7, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP104</objectName>
+    <objectPosition>(48.8, 0.4, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX31</objectName>
+    <objectPosition>(42.0, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX131</objectName>
+    <objectPosition>(24.2, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM60</objectName>
+    <objectPosition>(36.7, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP105</objectName>
+    <objectPosition>(48.1, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP63</objectName>
+    <objectPosition>(55.4, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM06</objectName>
+    <objectPosition>(49.1, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM96</objectName>
+    <objectPosition>(42.9, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX28</objectName>
+    <objectPosition>(60.7, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP08</objectName>
+    <objectPosition>(24.0, 3.6, -73.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.5, 0.2)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM67</objectName>
+    <objectPosition>(35.8, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX164</objectName>
+    <objectPosition>(49.1, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX41</objectName>
+    <objectPosition>(43.0, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX127</objectName>
+    <objectPosition>(24.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM29</objectName>
+    <objectPosition>(24.3, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP12</objectName>
+    <objectPosition>(58.1, 5.6, -61.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.7, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX153</objectName>
+    <objectPosition>(48.7, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF02</objectName>
+    <objectPosition>(54.9, 0.0, -62.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EGQDYHQDX01</objectName>
+    <objectPosition>(40.1, 0.0, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>SaveObjact</objectName>
+    <objectPosition>(97.0, 588.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB18</objectName>
+    <objectPosition>(36.7, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(42.0, 724.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP40</objectName>
+    <objectPosition>(29.9, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX27</objectName>
+    <objectPosition>(60.6, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX30</objectName>
+    <objectPosition>(43.0, 6.4, -68.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB30</objectName>
+    <objectPosition>(42.9, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX97</objectName>
+    <objectPosition>(29.6, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX42</objectName>
+    <objectPosition>(42.8, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX29</objectName>
+    <objectPosition>(60.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX45</objectName>
+    <objectPosition>(43.0, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX81</objectName>
+    <objectPosition>(35.2, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX23</objectName>
+    <objectPosition>(61.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX30</objectName>
+    <objectPosition>(43.0, 6.4, -68.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX53</objectName>
+    <objectPosition>(54.5, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1112.0, 35.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>LoadObject</objectName>
+    <objectPosition>(97.0, 525.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX43</objectName>
+    <objectPosition>(42.8, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM112</objectName>
+    <objectPosition>(60.6, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM02</objectName>
+    <objectPosition>(49.4, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX128</objectName>
+    <objectPosition>(22.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP101</objectName>
+    <objectPosition>(27.1, 5.6, -61.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.7, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX64</objectName>
+    <objectPosition>(54.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM115</objectName>
+    <objectPosition>(61.5, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>zhuangtaixianshi</objectName>
+    <objectPosition>(938.0, 747.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX16</objectName>
+    <objectPosition>(61.4, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1112.0, 154.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX60</objectName>
+    <objectPosition>(55.2, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>shirushi</objectName>
+    <objectPosition>(40.0, 6.1, -84.4)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX149</objectName>
+    <objectPosition>(49.0, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Canvas2</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX101</objectName>
+    <objectPosition>(29.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX162</objectName>
+    <objectPosition>(48.2, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM72</objectName>
+    <objectPosition>(35.2, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM19</objectName>
+    <objectPosition>(22.8, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM86</objectName>
+    <objectPosition>(55.6, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Directional Light</objectName>
+    <objectPosition>(0.0, 0.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.3, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>CruiseObject</objectName>
+    <objectPosition>(27.2, 2.0, -90.7)</objectPosition>
+    <objectRotation>(0.0, -0.4, 0.0, 0.9)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX26</objectName>
+    <objectPosition>(60.6, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX48</objectName>
+    <objectPosition>(43.2, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX35</objectName>
+    <objectPosition>(42.3, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Main Camera</objectName>
+    <objectPosition>(40.0, 6.1, -84.4)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP72</objectName>
+    <objectPosition>(36.7, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX161</objectName>
+    <objectPosition>(48.5, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX84</objectName>
+    <objectPosition>(35.2, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM57</objectName>
+    <objectPosition>(37.0, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>错误提示</objectName>
+    <objectPosition>(512.0, 1311.6, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP22</objectName>
+    <objectPosition>(61.2, 5.3, -69.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM91</objectName>
+    <objectPosition>(41.4, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX134</objectName>
+    <objectPosition>(23.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM95</objectName>
+    <objectPosition>(43.2, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX17</objectName>
+    <objectPosition>(61.4, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM40</objectName>
+    <objectPosition>(30.8, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP29</objectName>
+    <objectPosition>(29.9, 2.7, -55.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX80</objectName>
+    <objectPosition>(35.8, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP53</objectName>
+    <objectPosition>(54.6, 0.2, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(97.0, 588.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM99</objectName>
+    <objectPosition>(42.9, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM123</objectName>
+    <objectPosition>(61.5, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX05</objectName>
+    <objectPosition>(60.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP35</objectName>
+    <objectPosition>(25.4, 6.2, -72.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EAQDYHQJZ05</objectName>
+    <objectPosition>(42.8, 7.7, -69.6)</objectPosition>
+    <objectRotation>(-0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.6, 0.7, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP25</objectName>
+    <objectPosition>(63.0, 3.5, -65.9)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX99</objectName>
+    <objectPosition>(30.4, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX92</objectName>
+    <objectPosition>(37.0, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX07</objectName>
+    <objectPosition>(42.3, 6.4, -68.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM130</objectName>
+    <objectPosition>(53.8, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX96</objectName>
+    <objectPosition>(36.8, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM31</objectName>
+    <objectPosition>(23.4, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX51</objectName>
+    <objectPosition>(42.3, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>celiang</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>错误提示</objectName>
+    <objectPosition>(512.0, 1262.9, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB03</objectName>
+    <objectPosition>(49.3, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM38</objectName>
+    <objectPosition>(30.8, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX129</objectName>
+    <objectPosition>(24.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX61</objectName>
+    <objectPosition>(55.2, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM58</objectName>
+    <objectPosition>(37.0, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP60</objectName>
+    <objectPosition>(55.3, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Panel_long</objectName>
+    <objectPosition>(512.0, 842.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX11</objectName>
+    <objectPosition>(61.5, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP109</objectName>
+    <objectPosition>(48.9, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX165</objectName>
+    <objectPosition>(49.4, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP09</objectName>
+    <objectPosition>(60.9, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX04</objectName>
+    <objectPosition>(60.6, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP38</objectName>
+    <objectPosition>(42.3, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX76</objectName>
+    <objectPosition>(36.9, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX143</objectName>
+    <objectPosition>(39.5, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>RawImage_CL</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX134</objectName>
+    <objectPosition>(23.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP13</objectName>
+    <objectPosition>(42.6, 5.8, -69.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Button_unlock</objectName>
+    <objectPosition>(48.0, 309.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX127</objectName>
+    <objectPosition>(24.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP79</objectName>
+    <objectPosition>(29.6, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM109</objectName>
+    <objectPosition>(60.6, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX143</objectName>
+    <objectPosition>(39.5, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX155</objectName>
+    <objectPosition>(47.6, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX66</objectName>
+    <objectPosition>(55.2, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX77</objectName>
+    <objectPosition>(36.6, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM105</objectName>
+    <objectPosition>(42.9, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX36</objectName>
+    <objectPosition>(42.0, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1112.0, 94.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM64</objectName>
+    <objectPosition>(36.7, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP88</objectName>
+    <objectPosition>(23.6, 0.0, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM12</objectName>
+    <objectPosition>(48.1, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Volume</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX73</objectName>
+    <objectPosition>(54.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX40</objectName>
+    <objectPosition>(41.4, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX28</objectName>
+    <objectPosition>(60.7, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX41</objectName>
+    <objectPosition>(43.0, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB19</objectName>
+    <objectPosition>(36.7, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX148</objectName>
+    <objectPosition>(49.3, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX39</objectName>
+    <objectPosition>(42.7, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX63</objectName>
+    <objectPosition>(55.4, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM22</objectName>
+    <objectPosition>(24.6, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX113</objectName>
+    <objectPosition>(29.6, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX145</objectName>
+    <objectPosition>(27.1, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB34</objectName>
+    <objectPosition>(61.5, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM133</objectName>
+    <objectPosition>(41.3, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX44</objectName>
+    <objectPosition>(43.0, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM107</objectName>
+    <objectPosition>(41.4, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX130</objectName>
+    <objectPosition>(24.2, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EAQDYHQJZ02</objectName>
+    <objectPosition>(45.7, 0.0, -69.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>退出</objectName>
+    <objectPosition>(42.0, 724.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX69</objectName>
+    <objectPosition>(54.4, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM77</objectName>
+    <objectPosition>(54.4, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB20</objectName>
+    <objectPosition>(36.9, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB13</objectName>
+    <objectPosition>(30.5, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP73</objectName>
+    <objectPosition>(36.6, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX43</objectName>
+    <objectPosition>(42.8, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX06</objectName>
+    <objectPosition>(61.8, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1334.8, 36.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX32</objectName>
+    <objectPosition>(43.1, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP36</objectName>
+    <objectPosition>(54.7, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM05</objectName>
+    <objectPosition>(49.4, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX119</objectName>
+    <objectPosition>(23.4, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX01</objectName>
+    <objectPosition>(58.1, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM54</objectName>
+    <objectPosition>(29.0, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB12</objectName>
+    <objectPosition>(30.3, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB17</objectName>
+    <objectPosition>(36.5, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX74</objectName>
+    <objectPosition>(55.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>RawImage_cl</objectName>
+    <objectPosition>(1112.0, 4.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM75</objectName>
+    <objectPosition>(55.3, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>tiji</objectName>
+    <objectPosition>(1112.0, 243.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX122</objectName>
+    <objectPosition>(23.5, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX10</objectName>
+    <objectPosition>(42.3, 6.4, -67.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM128</objectName>
+    <objectPosition>(59.9, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX106</objectName>
+    <objectPosition>(29.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM16</objectName>
+    <objectPosition>(48.5, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX151</objectName>
+    <objectPosition>(48.5, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX124</objectName>
+    <objectPosition>(23.4, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP20</objectName>
+    <objectPosition>(61.3, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP83</objectName>
+    <objectPosition>(30.3, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM108</objectName>
+    <objectPosition>(41.4, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP55</objectName>
+    <objectPosition>(54.4, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX19</objectName>
+    <objectPosition>(61.6, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX04</objectName>
+    <objectPosition>(60.6, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM116</objectName>
+    <objectPosition>(61.5, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX03</objectName>
+    <objectPosition>(60.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX60</objectName>
+    <objectPosition>(55.2, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX64</objectName>
+    <objectPosition>(54.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM42</objectName>
+    <objectPosition>(30.5, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX62</objectName>
+    <objectPosition>(55.4, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB06</objectName>
+    <objectPosition>(23.9, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX83</objectName>
+    <objectPosition>(36.5, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX54</objectName>
+    <objectPosition>(54.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Button</objectName>
+    <objectPosition>(512.0, 1311.6, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX128</objectName>
+    <objectPosition>(22.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX58</objectName>
+    <objectPosition>(55.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>RawImage_dropdownlist</objectName>
+    <objectPosition>(552.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM45</objectName>
+    <objectPosition>(30.5, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX73</objectName>
+    <objectPosition>(54.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Panel_volume</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX135</objectName>
+    <objectPosition>(23.4, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX79</objectName>
+    <objectPosition>(36.1, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP28</objectName>
+    <objectPosition>(42.4, 2.7, -55.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Panel</objectName>
+    <objectPosition>(512.0, 1262.9, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Area</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Sphere</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX125</objectName>
+    <objectPosition>(22.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB28</objectName>
+    <objectPosition>(43.1, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX117</objectName>
+    <objectPosition>(29.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM100</objectName>
+    <objectPosition>(42.9, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX137</objectName>
+    <objectPosition>(24.3, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB01</objectName>
+    <objectPosition>(48.7, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX112</objectName>
+    <objectPosition>(29.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX120</objectName>
+    <objectPosition>(24.5, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM11</objectName>
+    <objectPosition>(49.1, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX144</objectName>
+    <objectPosition>(33.3, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF08</objectName>
+    <objectPosition>(30.2, 0.0, -63.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.7, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM98</objectName>
+    <objectPosition>(42.9, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP96</objectName>
+    <objectPosition>(24.5, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP99</objectName>
+    <objectPosition>(39.5, 5.6, -61.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.7, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX105</objectName>
+    <objectPosition>(30.3, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX132</objectName>
+    <objectPosition>(24.4, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX63</objectName>
+    <objectPosition>(55.4, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM85</objectName>
+    <objectPosition>(54.4, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX85</objectName>
+    <objectPosition>(36.8, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM18</objectName>
+    <objectPosition>(47.6, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Label</objectName>
+    <objectPosition>(217.5, 720.5, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX38</objectName>
+    <objectPosition>(42.5, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EventSystem</objectName>
+    <objectPosition>(0.0, 0.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX150</objectName>
+    <objectPosition>(48.3, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF10</objectName>
+    <objectPosition>(24.0, 0.0, -63.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.7, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF07</objectName>
+    <objectPosition>(30.2, 0.0, -62.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP39</objectName>
+    <objectPosition>(36.1, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX22</objectName>
+    <objectPosition>(60.9, 0.4, -69.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX129</objectName>
+    <objectPosition>(24.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX101</objectName>
+    <objectPosition>(29.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX155</objectName>
+    <objectPosition>(47.6, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP04</objectName>
+    <objectPosition>(60.6, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX103</objectName>
+    <objectPosition>(29.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP37</objectName>
+    <objectPosition>(48.5, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB10</objectName>
+    <objectPosition>(24.5, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP61</objectName>
+    <objectPosition>(55.2, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX15</objectName>
+    <objectPosition>(60.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB05</objectName>
+    <objectPosition>(49.1, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP49</objectName>
+    <objectPosition>(42.7, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX90</objectName>
+    <objectPosition>(36.1, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP59</objectName>
+    <objectPosition>(55.1, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF06</objectName>
+    <objectPosition>(36.4, 0.0, -63.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.7, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX102</objectName>
+    <objectPosition>(29.6, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>kongzhi</objectName>
+    <objectPosition>(0.0, 1.4, -37.6)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>液化气装卸站台管线</objectName>
+    <objectPosition>(0.0, 0.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM36</objectName>
+    <objectPosition>(22.8, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX103</objectName>
+    <objectPosition>(29.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX91</objectName>
+    <objectPosition>(35.8, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM106</objectName>
+    <objectPosition>(42.3, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB02</objectName>
+    <objectPosition>(48.9, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX20</objectName>
+    <objectPosition>(60.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX116</objectName>
+    <objectPosition>(30.8, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX160</objectName>
+    <objectPosition>(49.2, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX21</objectName>
+    <objectPosition>(60.9, 0.4, -69.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX12</objectName>
+    <objectPosition>(61.8, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EAQDYHQJZ03</objectName>
+    <objectPosition>(27.1, 0.0, -69.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX34</objectName>
+    <objectPosition>(42.1, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM61</objectName>
+    <objectPosition>(35.8, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX09</objectName>
+    <objectPosition>(42.3, 6.4, -68.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM140</objectName>
+    <objectPosition>(22.8, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX75</objectName>
+    <objectPosition>(35.8, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP19</objectName>
+    <objectPosition>(61.2, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM101</objectName>
+    <objectPosition>(42.9, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP62</objectName>
+    <objectPosition>(55.0, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF09</objectName>
+    <objectPosition>(24.0, 0.0, -62.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX56</objectName>
+    <objectPosition>(53.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX152</objectName>
+    <objectPosition>(47.6, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX36</objectName>
+    <objectPosition>(42.0, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM73</objectName>
+    <objectPosition>(53.8, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX164</objectName>
+    <objectPosition>(49.1, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX118</objectName>
+    <objectPosition>(30.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP51</objectName>
+    <objectPosition>(42.8, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX02</objectName>
+    <objectPosition>(61.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM120</objectName>
+    <objectPosition>(60.6, 0.3, -66.8)</objectPosition>
+    <objectRotation>(0.5, 0.5, 0.5, 0.5)</objectRotation>
+    <objectScales>(0.1, 0.1, 0.1)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP111</objectName>
+    <objectPosition>(49.0, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP74</objectName>
+    <objectPosition>(36.8, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX142</objectName>
+    <objectPosition>(45.7, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX23</objectName>
+    <objectPosition>(61.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP14</objectName>
+    <objectPosition>(61.5, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM50</objectName>
+    <objectPosition>(30.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX88</objectName>
+    <objectPosition>(36.8, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(925.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM03</objectName>
+    <objectPosition>(49.4, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP70</objectName>
+    <objectPosition>(36.7, 0.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX67</objectName>
+    <objectPosition>(55.5, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>XiTongTuiChu</objectName>
+    <objectPosition>(182.0, 689.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX100</objectName>
+    <objectPosition>(29.7, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX85</objectName>
+    <objectPosition>(36.8, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP98</objectName>
+    <objectPosition>(45.7, 5.6, -61.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.7, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX07</objectName>
+    <objectPosition>(42.3, 6.4, -68.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX163</objectName>
+    <objectPosition>(49.4, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX124</objectName>
+    <objectPosition>(23.4, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP97</objectName>
+    <objectPosition>(51.9, 5.6, -61.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.7, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM43</objectName>
+    <objectPosition>(29.6, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP52</objectName>
+    <objectPosition>(43.0, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX146</objectName>
+    <objectPosition>(48.1, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP43</objectName>
+    <objectPosition>(42.2, 0.0, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX114</objectName>
+    <objectPosition>(30.8, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB32</objectName>
+    <objectPosition>(61.3, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM32</objectName>
+    <objectPosition>(23.9, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX53</objectName>
+    <objectPosition>(54.5, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM113</objectName>
+    <objectPosition>(61.8, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP103</objectName>
+    <objectPosition>(48.4, 0.0, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EAQDYHQJZ04</objectName>
+    <objectPosition>(39.5, 0.6, -54.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX67</objectName>
+    <objectPosition>(55.5, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM28</objectName>
+    <objectPosition>(24.3, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX58</objectName>
+    <objectPosition>(55.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP76</objectName>
+    <objectPosition>(30.2, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM09</objectName>
+    <objectPosition>(49.1, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM90</objectName>
+    <objectPosition>(53.8, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB31</objectName>
+    <objectPosition>(61.1, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>exit</objectName>
+    <objectPosition>(1222.0, 9.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP86</objectName>
+    <objectPosition>(24.2, 0.1, -73.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP24</objectName>
+    <objectPosition>(44.0, 6.2, -72.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX13</objectName>
+    <objectPosition>(61.1, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP81</objectName>
+    <objectPosition>(30.2, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX51</objectName>
+    <objectPosition>(42.3, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX71</objectName>
+    <objectPosition>(55.3, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(48.0, 439.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP41</objectName>
+    <objectPosition>(23.7, 0.6, -63.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM92</objectName>
+    <objectPosition>(43.2, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX163</objectName>
+    <objectPosition>(49.4, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX77</objectName>
+    <objectPosition>(36.6, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX13</objectName>
+    <objectPosition>(61.1, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Label</objectName>
+    <objectPosition>(544.5, 720.5, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX93</objectName>
+    <objectPosition>(36.7, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX139</objectName>
+    <objectPosition>(23.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM80</objectName>
+    <objectPosition>(55.3, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX19</objectName>
+    <objectPosition>(61.6, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX161</objectName>
+    <objectPosition>(48.5, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF04</objectName>
+    <objectPosition>(42.6, 0.0, -63.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.7, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM78</objectName>
+    <objectPosition>(55.6, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM132</objectName>
+    <objectPosition>(47.6, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX141</objectName>
+    <objectPosition>(51.9, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1112.0, 213.4, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM104</objectName>
+    <objectPosition>(42.5, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX68</objectName>
+    <objectPosition>(54.4, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX110</objectName>
+    <objectPosition>(30.6, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM97</objectName>
+    <objectPosition>(42.0, 0.5, -65.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>WP</objectName>
+    <objectPosition>(20.8, -9.1, 6.2)</objectPosition>
+    <objectRotation>(-0.7, 0.1, 0.1, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB15</objectName>
+    <objectPosition>(30.7, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX20</objectName>
+    <objectPosition>(60.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP92</objectName>
+    <objectPosition>(24.0, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB26</objectName>
+    <objectPosition>(42.5, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP64</objectName>
+    <objectPosition>(36.4, 0.2, -73.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX104</objectName>
+    <objectPosition>(30.1, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX98</objectName>
+    <objectPosition>(30.7, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX95</objectName>
+    <objectPosition>(36.1, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>chongzhi</objectName>
+    <objectPosition>(1112.0, 64.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>AFQDYHQXF03</objectName>
+    <objectPosition>(42.6, 0.0, -62.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM84</objectName>
+    <objectPosition>(53.8, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM129</objectName>
+    <objectPosition>(53.7, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM135</objectName>
+    <objectPosition>(35.1, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB14</objectName>
+    <objectPosition>(30.5, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1222.0, 39.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX125</objectName>
+    <objectPosition>(22.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX57</objectName>
+    <objectPosition>(54.9, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX97</objectName>
+    <objectPosition>(29.6, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX99</objectName>
+    <objectPosition>(30.4, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP100</objectName>
+    <objectPosition>(33.3, 5.6, -61.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.7, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(97.0, 525.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX148</objectName>
+    <objectPosition>(49.3, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM88</objectName>
+    <objectPosition>(55.3, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP01</objectName>
+    <objectPosition>(54.8, 0.0, -53.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX159</objectName>
+    <objectPosition>(49.2, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1112.0, 273.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX06</objectName>
+    <objectPosition>(61.8, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX123</objectName>
+    <objectPosition>(23.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX157</objectName>
+    <objectPosition>(49.0, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP91</objectName>
+    <objectPosition>(23.7, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX107</objectName>
+    <objectPosition>(30.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX72</objectName>
+    <objectPosition>(55.6, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX95</objectName>
+    <objectPosition>(36.1, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM15</objectName>
+    <objectPosition>(49.1, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX37</objectName>
+    <objectPosition>(41.4, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX149</objectName>
+    <objectPosition>(49.0, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>ParadeRoute</objectName>
+    <objectPosition>(1334.8, 132.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX46</objectName>
+    <objectPosition>(42.3, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP56</objectName>
+    <objectPosition>(54.7, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP93</objectName>
+    <objectPosition>(24.1, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM04</objectName>
+    <objectPosition>(49.4, 1.2, -71.8)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX70</objectName>
+    <objectPosition>(55.6, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX49</objectName>
+    <objectPosition>(42.9, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM62</objectName>
+    <objectPosition>(36.7, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB04</objectName>
+    <objectPosition>(49.1, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM127</objectName>
+    <objectPosition>(60.0, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX31</objectName>
+    <objectPosition>(42.0, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM23</objectName>
+    <objectPosition>(24.6, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB08</objectName>
+    <objectPosition>(24.3, 1.7, -67.4)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX16</objectName>
+    <objectPosition>(61.4, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX106</objectName>
+    <objectPosition>(29.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX24</objectName>
+    <objectPosition>(61.4, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX115</objectName>
+    <objectPosition>(30.5, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX29</objectName>
+    <objectPosition>(60.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM119</objectName>
+    <objectPosition>(60.0, 1.2, -66.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX66</objectName>
+    <objectPosition>(55.2, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>RawImage_dingdian</objectName>
+    <objectPosition>(1334.8, 6.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX116</objectName>
+    <objectPosition>(30.8, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB25</objectName>
+    <objectPosition>(55.3, 1.7, -71.3)</objectPosition>
+    <objectRotation>(-0.3, 0.7, 0.7, 0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Dropdown (1)</objectName>
+    <objectPosition>(552.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>删除</objectName>
+    <objectPosition>(925.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>确定</objectName>
+    <objectPosition>(820.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Dropdown</objectName>
+    <objectPosition>(225.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX25</objectName>
+    <objectPosition>(61.7, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP34</objectName>
+    <objectPosition>(31.6, 6.2, -72.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM59</objectName>
+    <objectPosition>(37.0, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>exit</objectName>
+    <objectPosition>(1334.8, 6.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX94</objectName>
+    <objectPosition>(37.0, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX50</objectName>
+    <objectPosition>(43.2, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX50</objectName>
+    <objectPosition>(43.2, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX108</objectName>
+    <objectPosition>(30.4, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX90</objectName>
+    <objectPosition>(36.1, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX94</objectName>
+    <objectPosition>(37.0, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>title</objectName>
+    <objectPosition>(549.0, 929.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM27</objectName>
+    <objectPosition>(24.3, 1.5, -67.4)</objectPosition>
+    <objectRotation>(0.0, 1.0, 0.0, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(182.0, 719.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX166</objectName>
+    <objectPosition>(48.5, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX57</objectName>
+    <objectPosition>(54.9, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX158</objectName>
+    <objectPosition>(49.0, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB07</objectName>
+    <objectPosition>(24.1, 0.7, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.3, 0.3, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX141</objectName>
+    <objectPosition>(51.9, 5.6, -67.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX126</objectName>
+    <objectPosition>(23.9, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB33</objectName>
+    <objectPosition>(61.7, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(42.0, 650.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>液化气装卸站台</objectName>
+    <objectPosition>(0.0, 0.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM37</objectName>
+    <objectPosition>(29.0, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX88</objectName>
+    <objectPosition>(36.8, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX113</objectName>
+    <objectPosition>(29.6, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX100</objectName>
+    <objectPosition>(29.7, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP32</objectName>
+    <objectPosition>(24.0, 3.8, -69.6)</objectPosition>
+    <objectRotation>(-0.5, 0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX02</objectName>
+    <objectPosition>(61.6, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX147</objectName>
+    <objectPosition>(48.2, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM14</objectName>
+    <objectPosition>(48.7, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX49</objectName>
+    <objectPosition>(42.9, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Button_lock</objectName>
+    <objectPosition>(48.0, 399.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX108</objectName>
+    <objectPosition>(30.4, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP112</objectName>
+    <objectPosition>(49.2, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP84</objectName>
+    <objectPosition>(30.5, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM20</objectName>
+    <objectPosition>(24.6, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM71</objectName>
+    <objectPosition>(35.2, 0.7, -65.6)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX138</objectName>
+    <objectPosition>(24.6, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM65</objectName>
+    <objectPosition>(36.7, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM137</objectName>
+    <objectPosition>(28.9, 0.7, -66.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX79</objectName>
+    <objectPosition>(36.1, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM138</objectName>
+    <objectPosition>(29.0, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX139</objectName>
+    <objectPosition>(23.7, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>changdu</objectName>
+    <objectPosition>(1112.0, 124.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>XiTongDuDang</objectName>
+    <objectPosition>(882.0, 689.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM13</objectName>
+    <objectPosition>(48.1, 1.0, -70.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX47</objectName>
+    <objectPosition>(42.0, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX165</objectName>
+    <objectPosition>(49.4, 1.2, -67.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX26</objectName>
+    <objectPosition>(60.6, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX153</objectName>
+    <objectPosition>(48.7, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX32</objectName>
+    <objectPosition>(43.1, 1.7, -70.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX156</objectName>
+    <objectPosition>(49.2, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX166</objectName>
+    <objectPosition>(48.5, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>退出</objectName>
+    <objectPosition>(42.0, 724.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB21</objectName>
+    <objectPosition>(54.9, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX42</objectName>
+    <objectPosition>(42.8, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM70</objectName>
+    <objectPosition>(36.1, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX03</objectName>
+    <objectPosition>(60.9, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX33</objectName>
+    <objectPosition>(42.8, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP15</objectName>
+    <objectPosition>(61.6, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX119</objectName>
+    <objectPosition>(23.4, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM08</objectName>
+    <objectPosition>(49.1, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX89</objectName>
+    <objectPosition>(36.8, 2.1, -68.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>RawImage_moshi</objectName>
+    <objectPosition>(-130.0, 469.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX157</objectName>
+    <objectPosition>(49.0, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM33</objectName>
+    <objectPosition>(24.3, 1.2, -68.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP48</objectName>
+    <objectPosition>(42.9, 0.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX96</objectName>
+    <objectPosition>(36.8, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX38</objectName>
+    <objectPosition>(42.5, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM118</objectName>
+    <objectPosition>(61.8, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX93</objectName>
+    <objectPosition>(36.7, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX09</objectName>
+    <objectPosition>(42.3, 6.4, -68.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM121</objectName>
+    <objectPosition>(61.8, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP69</objectName>
+    <objectPosition>(36.4, 0.8, -67.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP23</objectName>
+    <objectPosition>(48.5, 0.5, -83.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM41</objectName>
+    <objectPosition>(30.8, 1.2, -72.2)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Button</objectName>
+    <objectPosition>(512.0, 1262.9, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX62</objectName>
+    <objectPosition>(55.4, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX137</objectName>
+    <objectPosition>(24.3, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX158</objectName>
+    <objectPosition>(49.0, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX21</objectName>
+    <objectPosition>(60.9, 0.4, -69.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM55</objectName>
+    <objectPosition>(35.2, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX150</objectName>
+    <objectPosition>(48.3, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP68</objectName>
+    <objectPosition>(36.1, 0.2, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>huan</objectName>
+    <objectPosition>(1334.8, 69.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP67</objectName>
+    <objectPosition>(35.8, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX115</objectName>
+    <objectPosition>(30.5, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP78</objectName>
+    <objectPosition>(30.2, 0.4, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP02</objectName>
+    <objectPosition>(58.1, 6.0, -66.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM34</objectName>
+    <objectPosition>(23.7, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX140</objectName>
+    <objectPosition>(24.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX122</objectName>
+    <objectPosition>(23.5, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX78</objectName>
+    <objectPosition>(35.9, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(1334.8, 162.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX82</objectName>
+    <objectPosition>(36.3, 1.2, -70.9)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX151</objectName>
+    <objectPosition>(48.5, 0.4, -69.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX87</objectName>
+    <objectPosition>(36.6, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM125</objectName>
+    <objectPosition>(60.0, 1.2, -65.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX156</objectName>
+    <objectPosition>(49.2, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX159</objectName>
+    <objectPosition>(49.2, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX102</objectName>
+    <objectPosition>(29.6, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX65</objectName>
+    <objectPosition>(55.4, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM136</objectName>
+    <objectPosition>(35.2, 0.7, -66.0)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP89</objectName>
+    <objectPosition>(24.0, 0.4, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX17</objectName>
+    <objectPosition>(61.4, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX59</objectName>
+    <objectPosition>(53.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP90</objectName>
+    <objectPosition>(23.4, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX146</objectName>
+    <objectPosition>(48.1, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX55</objectName>
+    <objectPosition>(54.4, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Menu</objectName>
+    <objectPosition>(512.0, 384.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(48.0, 349.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP21</objectName>
+    <objectPosition>(61.2, 3.8, -69.7)</objectPosition>
+    <objectRotation>(-0.5, 0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX130</objectName>
+    <objectPosition>(24.2, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX15</objectName>
+    <objectPosition>(60.0, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP85</objectName>
+    <objectPosition>(30.7, 0.4, -72.0)</objectPosition>
+    <objectRotation>(0.6, 0.3, 0.6, -0.3)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM24</objectName>
+    <objectPosition>(24.3, 1.2, -67.2)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.9, 0.9, 0.9)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM47</objectName>
+    <objectPosition>(30.5, 1.2, -72.0)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.7, 0.7, 0.7)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX55</objectName>
+    <objectPosition>(54.4, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX08</objectName>
+    <objectPosition>(42.3, 6.4, -67.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX91</objectName>
+    <objectPosition>(35.8, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM26</objectName>
+    <objectPosition>(24.3, 1.5, -71.3)</objectPosition>
+    <objectRotation>(0.7, 0.0, -0.7, 0.0)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM87</objectName>
+    <objectPosition>(54.9, 1.2, -70.6)</objectPosition>
+    <objectRotation>(0.5, -0.5, -0.5, -0.5)</objectRotation>
+    <objectScales>(0.5, 0.5, 0.5)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM56</objectName>
+    <objectPosition>(37.0, 1.2, -67.3)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX136</objectName>
+    <objectPosition>(24.6, 0.7, -67.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Distance</objectName>
+    <objectPosition>(512.0, 842.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB16</objectName>
+    <objectPosition>(36.3, 1.4, -70.3)</objectPosition>
+    <objectRotation>(0.3, 0.7, 0.7, -0.3)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM117</objectName>
+    <objectPosition>(61.5, 1.5, -70.1)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.4, 0.4, 0.4)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>biaoti</objectName>
+    <objectPosition>(1222.0, 123.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PVQDYHQFM93</objectName>
+    <objectPosition>(43.2, 1.2, -67.6)</objectPosition>
+    <objectRotation>(0.0, 0.7, 0.7, 0.0)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX86</objectName>
+    <objectPosition>(36.6, 0.3, -67.4)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX56</objectName>
+    <objectPosition>(53.8, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX68</objectName>
+    <objectPosition>(54.4, 0.5, -65.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX61</objectName>
+    <objectPosition>(55.2, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX27</objectName>
+    <objectPosition>(60.6, 3.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Arrow</objectName>
+    <objectPosition>(752.0, 721.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP33</objectName>
+    <objectPosition>(37.8, 6.2, -72.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX80</objectName>
+    <objectPosition>(35.8, 0.7, -65.3)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX52</objectName>
+    <objectPosition>(43.0, 0.6, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX109</objectName>
+    <objectPosition>(30.4, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX132</objectName>
+    <objectPosition>(24.4, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX34</objectName>
+    <objectPosition>(42.1, 1.3, -66.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX131</objectName>
+    <objectPosition>(24.2, 0.6, -67.5)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX39</objectName>
+    <objectPosition>(42.7, 1.2, -70.6)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP66</objectName>
+    <objectPosition>(36.4, 0.4, -66.1)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP95</objectName>
+    <objectPosition>(24.3, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PMQDYHQYB23</objectName>
+    <objectPosition>(55.5, 1.0, -70.9)</objectPosition>
+    <objectRotation>(-0.6, -0.3, -0.3, 0.6)</objectRotation>
+    <objectScales>(0.8, 0.8, 0.8)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP77</objectName>
+    <objectPosition>(29.8, 0.0, -67.4)</objectPosition>
+    <objectRotation>(0.7, 0.7, 0.0, 0.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP45</objectName>
+    <objectPosition>(42.0, 0.6, -73.1)</objectPosition>
+    <objectRotation>(-0.5, -0.5, -0.5, 0.5)</objectRotation>
+    <objectScales>(0.0, 0.0, 0.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX110</objectName>
+    <objectPosition>(30.6, 0.7, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX24</objectName>
+    <objectPosition>(61.4, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>EOQDYHQXP110</objectName>
+    <objectPosition>(49.1, 1.2, -68.2)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(0.3, 0.3, 0.3)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX152</objectName>
+    <objectPosition>(47.6, 1.2, -65.7)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX11</objectName>
+    <objectPosition>(61.5, 1.2, -71.0)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>PPQDYHQGX33</objectName>
+    <objectPosition>(42.8, 1.4, -68.8)</objectPosition>
+    <objectRotation>(-0.7, 0.0, 0.0, 0.7)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+  <objectSaved>
+    <objectName>Text</objectName>
+    <objectPosition>(882.0, 719.0, 0.0)</objectPosition>
+    <objectRotation>(0.0, 0.0, 0.0, 1.0)</objectRotation>
+    <objectScales>(1.0, 1.0, 1.0)</objectScales>
+  </objectSaved>
+</save>

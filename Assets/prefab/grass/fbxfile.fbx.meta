@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: fdaa2f5e0d55cb643a37f6b376ffcf0f
+timeCreated: 1651196375
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3DXY_geometry_001
+    100002: 3DXY_geometry_001_MeshPart0
+    100004: 3DXY_geometry_001_MeshPart1
+    100006: 3DXY_geometry_001_MeshPart2
+    100008: 3DXY_geometry_001_MeshPart3
+    100010: 3DXY_geometry_002
+    100012: 3DXY_geometry_002_MeshPart0
+    100014: 3DXY_geometry_002_MeshPart1
+    100016: 3DXY_geometry_002_MeshPart2
+    100018: 3DXY_geometry_002_MeshPart3
+    100020: 3DXY_geometry_002_MeshPart4
+    100022: 3DXY_geometry_003
+    100024: 3DXY_geometry_003_MeshPart0
+    100026: 3DXY_geometry_003_MeshPart1
+    100028: 3DXY_geometry_003_MeshPart2
+    100030: 3DXY_geometry_003_MeshPart3
+    100032: 3DXY_geometry_003_MeshPart4
+    100034: 3DXY_geometry_004
+    100036: 3DXY_geometry_004_MeshPart0
+    100038: 3DXY_geometry_004_MeshPart1
+    100040: 3DXY_geometry_004_MeshPart2
+    100042: 3DXY_geometry_004_MeshPart3
+    100044: 3DXY_geometry_004_MeshPart4
+    100046: 3DXY_geometry_004_MeshPart5
+    100048: //RootNode
+    400000: 3DXY_geometry_001
+    400002: 3DXY_geometry_001_MeshPart0
+    400004: 3DXY_geometry_001_MeshPart1
+    400006: 3DXY_geometry_001_MeshPart2
+    400008: 3DXY_geometry_001_MeshPart3
+    400010: 3DXY_geometry_002
+    400012: 3DXY_geometry_002_MeshPart0
+    400014: 3DXY_geometry_002_MeshPart1
+    400016: 3DXY_geometry_002_MeshPart2
+    400018: 3DXY_geometry_002_MeshPart3
+    400020: 3DXY_geometry_002_MeshPart4
+    400022: 3DXY_geometry_003
+    400024: 3DXY_geometry_003_MeshPart0
+    400026: 3DXY_geometry_003_MeshPart1
+    400028: 3DXY_geometry_003_MeshPart2
+    400030: 3DXY_geometry_003_MeshPart3
+    400032: 3DXY_geometry_003_MeshPart4
+    400034: 3DXY_geometry_004
+    400036: 3DXY_geometry_004_MeshPart0
+    400038: 3DXY_geometry_004_MeshPart1
+    400040: 3DXY_geometry_004_MeshPart2
+    400042: 3DXY_geometry_004_MeshPart3
+    400044: 3DXY_geometry_004_MeshPart4
+    400046: 3DXY_geometry_004_MeshPart5
+    400048: //RootNode
+    2300000: 3DXY_geometry_001_MeshPart0
+    2300002: 3DXY_geometry_001_MeshPart1
+    2300004: 3DXY_geometry_001_MeshPart2
+    2300006: 3DXY_geometry_001_MeshPart3
+    2300008: 3DXY_geometry_002_MeshPart0
+    2300010: 3DXY_geometry_002_MeshPart1
+    2300012: 3DXY_geometry_002_MeshPart2
+    2300014: 3DXY_geometry_002_MeshPart3
+    2300016: 3DXY_geometry_002_MeshPart4
+    2300018: 3DXY_geometry_003_MeshPart0
+    2300020: 3DXY_geometry_003_MeshPart1
+    2300022: 3DXY_geometry_003_MeshPart2
+    2300024: 3DXY_geometry_003_MeshPart3
+    2300026: 3DXY_geometry_003_MeshPart4
+    2300028: 3DXY_geometry_004_MeshPart0
+    2300030: 3DXY_geometry_004_MeshPart1
+    2300032: 3DXY_geometry_004_MeshPart2
+    2300034: 3DXY_geometry_004_MeshPart3
+    2300036: 3DXY_geometry_004_MeshPart4
+    2300038: 3DXY_geometry_004_MeshPart5
+    3300000: 3DXY_geometry_001_MeshPart0
+    3300002: 3DXY_geometry_001_MeshPart1
+    3300004: 3DXY_geometry_001_MeshPart2
+    3300006: 3DXY_geometry_001_MeshPart3
+    3300008: 3DXY_geometry_002_MeshPart0
+    3300010: 3DXY_geometry_002_MeshPart1
+    3300012: 3DXY_geometry_002_MeshPart2
+    3300014: 3DXY_geometry_002_MeshPart3
+    3300016: 3DXY_geometry_002_MeshPart4
+    3300018: 3DXY_geometry_003_MeshPart0
+    3300020: 3DXY_geometry_003_MeshPart1
+    3300022: 3DXY_geometry_003_MeshPart2
+    3300024: 3DXY_geometry_003_MeshPart3
+    3300026: 3DXY_geometry_003_MeshPart4
+    3300028: 3DXY_geometry_004_MeshPart0
+    3300030: 3DXY_geometry_004_MeshPart1
+    3300032: 3DXY_geometry_004_MeshPart2
+    3300034: 3DXY_geometry_004_MeshPart3
+    3300036: 3DXY_geometry_004_MeshPart4
+    3300038: 3DXY_geometry_004_MeshPart5
+    4300000: 3DXY_geometry_001_MeshPart0
+    4300002: 3DXY_geometry_001_MeshPart1
+    4300004: 3DXY_geometry_001_MeshPart2
+    4300006: 3DXY_geometry_001_MeshPart3
+    4300008: 3DXY_geometry_002_MeshPart0
+    4300010: 3DXY_geometry_002_MeshPart1
+    4300012: 3DXY_geometry_002_MeshPart2
+    4300014: 3DXY_geometry_002_MeshPart3
+    4300016: 3DXY_geometry_002_MeshPart4
+    4300018: 3DXY_geometry_003_MeshPart0
+    4300020: 3DXY_geometry_003_MeshPart1
+    4300022: 3DXY_geometry_003_MeshPart2
+    4300024: 3DXY_geometry_003_MeshPart3
+    4300026: 3DXY_geometry_003_MeshPart4
+    4300028: 3DXY_geometry_004_MeshPart0
+    4300030: 3DXY_geometry_004_MeshPart1
+    4300032: 3DXY_geometry_004_MeshPart2
+    4300034: 3DXY_geometry_004_MeshPart3
+    4300036: 3DXY_geometry_004_MeshPart4
+    4300038: 3DXY_geometry_004_MeshPart5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
